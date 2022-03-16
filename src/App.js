@@ -13,7 +13,6 @@ from '@mui/material';
   
 import { mdiCheckBold } from '@mdi/js';
 
-
 export default function App() {
   return (
     <div>
