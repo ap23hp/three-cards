@@ -1,3 +1,23 @@
 h1, p {
   font-family: Lato;
 }
+
+.MuiCard-root:hover{
+
+  -webkit-box-shadow: 5px 5px 23px -8px #000000; 
+box-shadow: 5px 5px 23px -8px #000000;
+
+  -moz-transform: scale(1) translate(0px, -4px);
+  -webkit-transform: scale(1) translate(0px, -4px);
+  -o-transform: scale(1) translate(0px, -4px);
+  -ms-transform: scale(1) translate(0px, -4px);
+  transform: scale(1) translate(0px, -4px);
+
+
+}
+.MuiButton-contained:hover{
+  background-color: #0265E7;
+ 
+}
+
+
